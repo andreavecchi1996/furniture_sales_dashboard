@@ -5,6 +5,8 @@ This project analyses U.S. sales performance using the Superstore dataset to ide
 
 The goal is to provide a clear executive view of sales activity across states, cities, categories, and monthly trends, helping stakeholders quickly spot strong-performing areas, weaker markets, and patterns that may require action. In a real business setting, this type of dashboard supports territory review, product performance monitoring, and high-level sales planning.
 
+[Click here for the Tableau Dashboard](https://public.tableau.com/views/forniture_sales_dashboard/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### Key Questions Answered
 - Which U.S. states and cities are driving the highest sales?
 - Which product categories and sub-categories contribute most to revenue?
