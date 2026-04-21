@@ -8,11 +8,15 @@ The goal is to provide a clear executive view of sales activity across states, c
 [Click here for the Tableau Dashboard](https://public.tableau.com/views/forniture_sales_dashboard/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Key Questions Answered
-- Which U.S. states and cities are driving the highest sales?
-- Which product categories and sub-categories contribute most to revenue?
-- How do sales evolve?
-- Are there clear geographic differences in sales performance?
-- Which areas appear to offer the biggest opportunity for improvement?
+- Where is Furniture sales performance strongest across the U.S.?
+
+- Which cities and states contribute most to revenue?
+
+- Which sub-categories are the main drivers of Furniture sales?
+
+- How does performance evolve across quarters?
+
+- Which markets deserve closer attention in future analysis?
 
 ## Tech Stack
 
