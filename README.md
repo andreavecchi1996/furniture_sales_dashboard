@@ -27,7 +27,22 @@ The dataset contains 51,290 rows and 24 columns. It includes a clean transaction
 
 ## Overview of Findings
 
-Ask me which kind of combo do you want to see and I’ll share the screenshots.
+- California represents the strongest Furniture market in the analysis, with a high concentration of sales in Los Angeles and San Francisco. Within the category, Chairs and Tables contribute the most, and the quarterly trend indicates stable growth with recurring seasonal fluctuations.
+
+<img width="1286" height="694" alt="Image" src="https://github.com/user-attachments/assets/bb042ff7-9a54-4b78-a76a-b119977474f8" />
+
+
+- New York and Texas also show meaningful Furniture sales, but the distribution is more concentrated around a smaller number of cities.
+<img width="1267" height="767" alt="Image" src="https://github.com/user-attachments/assets/4642c820-20d5-4ee8-a8fd-31ac4a6081b9" />
+
+
+- Chairs and Tables are the main revenue drivers across the Furniture category.
+  
+- The quarterly trend suggests overall stability with recurring fluctuations, indicating that sales performance is not fully uniform over time.
+
+
+
+
 
 ## Recommendation
 
