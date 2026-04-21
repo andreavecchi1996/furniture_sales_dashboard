@@ -46,10 +46,10 @@ The dataset contains 51,290 rows and 24 columns. It includes a clean transaction
 
 ## Recommendation
 
-Ask me which kind of combo do you want to see and I’ll share the screenshots.
+The analysis suggests that California should be treated as a priority market for Furniture sales, with Los Angeles and San Francisco representing the most relevant city-level concentrations. Chairs and Tables should also be monitored closely, as they appear to be the main drivers of category performance. A next step would be to compare this category with other product groups to identify whether similar geographic patterns hold across the wider business.
+
+
 
 ## The Dataset
 
 Kaggle Superstore dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
-
-If you want, I can rewrite this again in a more **senior analyst / consulting-style tone**, which would sound even better in a GitHub README.
