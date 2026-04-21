@@ -17,21 +17,13 @@ The goal is to provide a clear executive view of sales activity across states, c
 ## Tech Stack
 
 - **Tableau** for dashboard development and interactive analysis.
-- **Kaggle Superstore dataset** as the source of transactional sales data.
-- **Spreadsheet-based data review** for initial validation and structure checks.
-- **Data visualization and business reporting approach** focused on executive-level sales insights.
 
 ## Data Structure & Initial Checks
 
-The dataset contains order-level sales records for a U.S. superstore, with dimensions covering time, geography, product category, and financial performance.
+The dataset contains 51,290 rows and 24 columns. It includes a clean transactional structure with no missing values in the main business fields used for analysis.
 
-Before building the dashboard, the data was reviewed to check:
-- missing or inconsistent values,
-- duplicates,
-- date coverage,
-- category and geography consistency,
-- unusual sales or profit values,
-- suitability for trend and segment analysis.
+<img width="415" height="540" alt="Image" src="https://github.com/user-attachments/assets/f44dc73e-556e-471b-a11f-e4358d9a5ac5" />
+
 
 ## Overview of Findings
 
